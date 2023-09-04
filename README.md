@@ -1,5 +1,8 @@
 # Writeups
 
 Writeups of HTB and THM rooms.
-![htb](https://github.com/fromastr/Writeups/assets/36005077/d5e77e52-24bf-4b72-a75d-b255aff21360)
-![tryhackme](https://github.com/fromastr/Writeups/assets/36005077/bb71b4d0-9fab-4535-bee6-7166b6f2dd4c)
+
+![htb](https://github.com/fromastr/Writeups/assets/36005077/f2bd365a-9bec-4dda-a21e-36cd9ef8da26)![tryhackme](https://github.com/fromastr/Writeups/assets/36005077/e4a78b8a-c469-401e-8dcf-3f452145e5d9)
+
+
+
